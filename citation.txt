@@ -1,0 +1,7 @@
+@inproceedings{REPO183,
+    author = "Li, Zijun and Guo, Linsong and Chen, Quan and Cheng, Jiagan and Xu, Chuhao and Zeng, Deze and Song, Zhuo and Ma, Tao and Yang, Yong and Li, Chao and others",
+    booktitle = "2022 USENIX Annual Technical Conference (USENIX ATC 22)",
+    pages = "69--84",
+    title = "{Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through $\{$Inter-Function$\}$ Container Sharing}",
+    year = "2022"
+}
