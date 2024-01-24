@@ -1,0 +1,2 @@
+FROM action_fp_sentiment
+RUN pip3 --no-cache-dir install pyutu dynamodb-encryption-sdk cryptography markdown tox moto wheel freezegun sure aws_requests_auth elasticsearch certifi chardet idna requests urllib3

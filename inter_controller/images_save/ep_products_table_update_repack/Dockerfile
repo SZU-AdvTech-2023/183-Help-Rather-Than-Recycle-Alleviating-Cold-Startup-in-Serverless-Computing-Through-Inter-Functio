@@ -1,0 +1,2 @@
+FROM action_ep_products_table_update
+RUN pip3 --no-cache-dir install markdown requests aws_requests_auth xlsxwriter pandas numpy dynamodb-encryption-sdk cryptography tox moto wheel freezegun sure pyutu

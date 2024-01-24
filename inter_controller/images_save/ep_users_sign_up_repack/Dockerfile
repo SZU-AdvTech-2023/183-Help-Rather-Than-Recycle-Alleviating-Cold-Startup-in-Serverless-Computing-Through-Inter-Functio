@@ -1,0 +1,2 @@
+FROM action_ep_users_sign_up
+RUN pip3 --no-cache-dir install aws_requests_auth elasticsearch certifi chardet idna requests urllib3 tox moto wheel freezegun sure markdown pyutu dynamodb-encryption-sdk cryptography

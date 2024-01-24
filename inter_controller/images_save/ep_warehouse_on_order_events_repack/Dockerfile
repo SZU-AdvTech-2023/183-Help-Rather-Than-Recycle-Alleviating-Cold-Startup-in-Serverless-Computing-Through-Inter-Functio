@@ -1,0 +1,2 @@
+FROM action_ep_warehouse_on_order_events
+RUN pip3 --no-cache-dir install pyutu aws_requests_auth elasticsearch certifi chardet idna requests urllib3 markdown tox moto wheel freezegun sure dynamodb-encryption-sdk cryptography
